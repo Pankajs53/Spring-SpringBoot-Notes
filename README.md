@@ -1,4 +1,4 @@
-**Spring Framework: Notes for Beginners**
+**Spring Framework: Notes**
 
 ### Tight Coupling
 
